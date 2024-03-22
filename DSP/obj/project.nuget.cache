@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "luUdZ8nO1PB/QMB6LtvsdnusajqVL+69TKhCzL5ymZWD8wxPe1K+Ogp/rVru8IV3UxXfRygc7UrVXFGFnFvSJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\DSP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zukit\\.nuget\\packages\\anglesharp\\1.0.7\\anglesharp.1.0.7.nupkg.sha512",
+    "C:\\Users\\zukit\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512",
+    "C:\\Users\\zukit\\.nuget\\packages\\youtubeexplode\\6.3.13\\youtubeexplode.6.3.13.nupkg.sha512"
+  ],
+  "logs": []
+}

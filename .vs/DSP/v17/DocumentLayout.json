@@ -1,0 +1,398 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zukit\\source\\repos\\DSP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|c:\\users\\zukit\\source\\repos\\dsp\\dsp\\repos\\youtuberepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|solutionrelative:dsp\\repos\\youtuberepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|c:\\users\\zukit\\source\\repos\\dsp\\dsp\\repos\\videorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|solutionrelative:dsp\\repos\\videorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|c:\\users\\zukit\\source\\repos\\dsp\\dsp\\repos\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|solutionrelative:dsp\\repos\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|c:\\users\\zukit\\source\\repos\\dsp\\dsp\\repos\\spotifyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|solutionrelative:dsp\\repos\\spotifyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|c:\\users\\zukit\\source\\repos\\dsp\\dsp\\repos\\ispotifyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|solutionrelative:dsp\\repos\\ispotifyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|c:\\users\\zukit\\source\\repos\\dsp\\dsp\\repos\\iyoutuberepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|solutionrelative:dsp\\repos\\iyoutuberepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|c:\\users\\zukit\\source\\repos\\dsp\\dsp\\repos\\ivideorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|solutionrelative:dsp\\repos\\ivideorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|c:\\users\\zukit\\source\\repos\\dsp\\dsp\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|solutionrelative:dsp\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|c:\\users\\zukit\\source\\repos\\dsp\\dsp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|solutionrelative:dsp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|c:\\users\\zukit\\source\\repos\\dsp\\dsp\\views\\main\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|solutionrelative:dsp\\views\\main\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|c:\\users\\zukit\\source\\repos\\dsp\\dsp\\models\\pageinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|solutionrelative:dsp\\models\\pageinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|c:\\users\\zukit\\source\\repos\\dsp\\dsp\\models\\spotifyplaylistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|solutionrelative:dsp\\models\\spotifyplaylistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|c:\\users\\zukit\\source\\repos\\dsp\\dsp\\models\\youtubesearchlistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|solutionrelative:dsp\\models\\youtubesearchlistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|c:\\users\\zukit\\source\\repos\\dsp\\dsp\\models\\tracks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|solutionrelative:dsp\\models\\tracks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|c:\\users\\zukit\\source\\repos\\dsp\\dsp\\models\\trackobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|solutionrelative:dsp\\models\\trackobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|c:\\users\\zukit\\source\\repos\\dsp\\dsp\\models\\playlisttrackobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|solutionrelative:dsp\\models\\playlisttrackobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|c:\\users\\zukit\\source\\repos\\dsp\\dsp\\models\\searchresultid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|solutionrelative:dsp\\models\\searchresultid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|c:\\users\\zukit\\source\\repos\\dsp\\dsp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|solutionrelative:dsp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|c:\\users\\zukit\\source\\repos\\dsp\\dsp\\views\\main\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|solutionrelative:dsp\\views\\main\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|c:\\users\\zukit\\source\\repos\\dsp\\dsp\\models\\searchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|solutionrelative:dsp\\models\\searchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|c:\\users\\zukit\\source\\repos\\dsp\\dsp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|solutionrelative:dsp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|c:\\users\\zukit\\source\\repos\\dsp\\dsp\\models\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}",
+      "RelativeMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|solutionrelative:dsp\\models\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|c:\\users\\zukit\\source\\repos\\dsp\\dsp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A1AD435-209B-4B9D-8F95-5FC92E2BBF99}|DSP\\DSP.csproj|solutionrelative:dsp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VideoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Repos\\VideoRepo.cs",
+              "RelativeDocumentMoniker": "DSP\\Repos\\VideoRepo.cs",
+              "ToolTip": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Repos\\VideoRepo.cs",
+              "RelativeToolTip": "DSP\\Repos\\VideoRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T17:31:08.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IVideoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Repos\\IVideoRepo.cs",
+              "RelativeDocumentMoniker": "DSP\\Repos\\IVideoRepo.cs",
+              "ToolTip": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Repos\\IVideoRepo.cs",
+              "RelativeToolTip": "DSP\\Repos\\IVideoRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T11:29:36.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IYoutubeRepo.cs",
+              "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Repos\\IYoutubeRepo.cs",
+              "RelativeDocumentMoniker": "DSP\\Repos\\IYoutubeRepo.cs",
+              "ToolTip": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Repos\\IYoutubeRepo.cs",
+              "RelativeToolTip": "DSP\\Repos\\IYoutubeRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T11:28:58.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpotifyRepo.cs",
+              "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Repos\\SpotifyRepo.cs",
+              "RelativeDocumentMoniker": "DSP\\Repos\\SpotifyRepo.cs",
+              "ToolTip": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Repos\\SpotifyRepo.cs",
+              "RelativeToolTip": "DSP\\Repos\\SpotifyRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T17:31:35.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Repos\\Token.cs",
+              "RelativeDocumentMoniker": "DSP\\Repos\\Token.cs",
+              "ToolTip": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Repos\\Token.cs",
+              "RelativeToolTip": "DSP\\Repos\\Token.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T18:20:49.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "YoutubeRepo.cs",
+              "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Repos\\YoutubeRepo.cs",
+              "RelativeDocumentMoniker": "DSP\\Repos\\YoutubeRepo.cs",
+              "ToolTip": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Repos\\YoutubeRepo.cs",
+              "RelativeToolTip": "DSP\\Repos\\YoutubeRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T17:31:20.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISpotifyRepo.cs",
+              "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Repos\\ISpotifyRepo.cs",
+              "RelativeDocumentMoniker": "DSP\\Repos\\ISpotifyRepo.cs",
+              "ToolTip": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Repos\\ISpotifyRepo.cs",
+              "RelativeToolTip": "DSP\\Repos\\ISpotifyRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T11:29:22.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainController.cs",
+              "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Controllers\\MainController.cs",
+              "RelativeDocumentMoniker": "DSP\\Controllers\\MainController.cs",
+              "ToolTip": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Controllers\\MainController.cs",
+              "RelativeToolTip": "DSP\\Controllers\\MainController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwCQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T18:13:45.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Program.cs",
+              "RelativeDocumentMoniker": "DSP\\Program.cs",
+              "ToolTip": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Program.cs",
+              "RelativeToolTip": "DSP\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T17:41:44.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PageInfo.cs",
+              "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Models\\PageInfo.cs",
+              "RelativeDocumentMoniker": "DSP\\Models\\PageInfo.cs",
+              "ToolTip": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Models\\PageInfo.cs",
+              "RelativeToolTip": "DSP\\Models\\PageInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T09:33:52.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Views\\Main\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "DSP\\Views\\Main\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Views\\Main\\Privacy.cshtml",
+              "RelativeToolTip": "DSP\\Views\\Main\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T21:33:53.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SpotifyPlaylistResponse.cs",
+              "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Models\\SpotifyPlaylistResponse.cs",
+              "RelativeDocumentMoniker": "DSP\\Models\\SpotifyPlaylistResponse.cs",
+              "ToolTip": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Models\\SpotifyPlaylistResponse.cs",
+              "RelativeToolTip": "DSP\\Models\\SpotifyPlaylistResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T22:01:41.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "YoutubeSearchListResponse.cs",
+              "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Models\\YoutubeSearchListResponse.cs",
+              "RelativeDocumentMoniker": "DSP\\Models\\YoutubeSearchListResponse.cs",
+              "ToolTip": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Models\\YoutubeSearchListResponse.cs",
+              "RelativeToolTip": "DSP\\Models\\YoutubeSearchListResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T09:33:29.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Tracks.cs",
+              "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Models\\Tracks.cs",
+              "RelativeDocumentMoniker": "DSP\\Models\\Tracks.cs",
+              "ToolTip": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Models\\Tracks.cs",
+              "RelativeToolTip": "DSP\\Models\\Tracks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T20:16:25.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TrackObject.cs",
+              "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Models\\TrackObject.cs",
+              "RelativeDocumentMoniker": "DSP\\Models\\TrackObject.cs",
+              "ToolTip": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Models\\TrackObject.cs",
+              "RelativeToolTip": "DSP\\Models\\TrackObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T20:21:40.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PlaylistTrackObject.cs",
+              "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Models\\PlaylistTrackObject.cs",
+              "RelativeDocumentMoniker": "DSP\\Models\\PlaylistTrackObject.cs",
+              "ToolTip": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Models\\PlaylistTrackObject.cs",
+              "RelativeToolTip": "DSP\\Models\\PlaylistTrackObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T20:18:22.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SearchResultId.cs",
+              "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Models\\SearchResultId.cs",
+              "RelativeDocumentMoniker": "DSP\\Models\\SearchResultId.cs",
+              "ToolTip": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Models\\SearchResultId.cs",
+              "RelativeToolTip": "DSP\\Models\\SearchResultId.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T09:34:39.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SearchResult.cs",
+              "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Models\\SearchResult.cs",
+              "RelativeDocumentMoniker": "DSP\\Models\\SearchResult.cs",
+              "ToolTip": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Models\\SearchResult.cs",
+              "RelativeToolTip": "DSP\\Models\\SearchResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T09:34:15.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Views\\Main\\Index.cshtml",
+              "RelativeDocumentMoniker": "DSP\\Views\\Main\\Index.cshtml",
+              "ToolTip": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Views\\Main\\Index.cshtml",
+              "RelativeToolTip": "DSP\\Views\\Main\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T11:50:31.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Models\\.editorconfig",
+              "RelativeDocumentMoniker": "DSP\\Models\\.editorconfig",
+              "ToolTip": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Models\\.editorconfig",
+              "RelativeToolTip": "DSP\\Models\\.editorconfig",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-14T09:33:02.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "DSP\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "DSP\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T09:00:39.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\appsettings.json",
+              "RelativeDocumentMoniker": "DSP\\appsettings.json",
+              "ToolTip": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\appsettings.json",
+              "RelativeToolTip": "DSP\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-14T09:00:30.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "DSP\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\zukit\\source\\repos\\DSP\\DSP\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "DSP\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T08:52:46.586Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
